@@ -1,0 +1,1883 @@
+{
+  "ord_dataset-00005539a1e04c809a9a78647bea649c": {
+    "counts": {
+      "Base": {
+        "C(=O)([O-])[O-].[Cs+].[Cs+]": 25,
+        "CC(C)(C)[O-].[Na+]": 16,
+        "CC(C)(C)[O-].[K+]": 5,
+        "CCC(C)(C)[O-].[Na+]": 2,
+        "[O-]P(=O)([O-])[O-].[K+].[K+].[K+]": 1,
+        "C(=O)([O-])[O-].[K+].[K+]": 1
+      },
+      "Solvent": {
+        "C1COCCO1": 22,
+        "CC1=CC=CC=C1": 12,
+        "COCCOC": 4,
+        "C1CCOC1": 2,
+        "CC(=O)N(C)C": 4,
+        "C1=CC=C(C=C1)C(F)(F)F": 1,
+        "CN(C)C=O": 2,
+        "COC1=CC=CC=C1": 1
+      },
+      "Metal": {
+        "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]": 21,
+        "CC(=O)O.CC(=O)O.[Pd]": 27,
+        "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd]": 1,
+        "CC(C)(C)P(C(C)(C)C)C(C)(C)C.CC(C)(C)P(C(C)(C)C)C(C)(C)C.[Pd]": 1,
+        "CC(C1CCCC1P(C2CCCCC2)C3CCCCC3)P(C(C)(C)C)C(C)(C)C.C1CCCC1.[Fe]": 3
+      },
+      "aryl halide": {
+        "COC(=O)C1=CC(=CC(=C1)Br)[N+](=O)[O-]": 1,
+        "C1=CC=C(C=C1)COC2=CC(=CC=C2)Br": 1,
+        "CN1C[C@@H](OC2=C(C1)C=CC(=N2)Cl)C3=CC=CC=C3": 1,
+        "C1=CC(=CC=C1Br)I": 2,
+        "C1=CN=C(C=C1Cl)Cl": 4,
+        "COC1=C(C=CC(=C1)F)C2=NC(=NC=C2F)Cl": 1,
+        "COC1=CC(=CC=C1)Br": 1,
+        "C1=CC=C(C=C1)COC2=CC(=CC=C2)I": 1,
+        "CC1=C(N=CC=C1)Br": 1,
+        "C1=CC2=NC=C(N2C=C1)C3=NC(=NC=C3Cl)Cl": 1,
+        "CN1CC(OC2=C(C1)C=CC(=N2)Cl)CC(F)(F)F": 1,
+        "C1CCC(CC1)NC(=O)C2=CN=C(C=C2)Cl": 1,
+        "CC1=NN(C=C1NC2=NC=C(C(=C2)I)C(F)(F)F)C": 2,
+        "CN1CC(OC2=C(C1=O)C=CC(=N2)Cl)C3=CC=CC=C3": 1,
+        "C1=CN=C(C=C1C(F)(F)F)Cl": 1,
+        "C1=C(C(=CN=C1Cl)Cl)I": 2,
+        "CN1C[C@H](OC2=NC(=NC=C2C1)Cl)C3=CC=CC=C3": 1,
+        "C1CNC(=O)C2=C1C=C(C=C2)Br": 1,
+        "C1=CC(=CC=C1O)Br": 1,
+        "C1=CC(=CC(=C1)Br)F": 1,
+        "C1=CC=C(C=C1)NC2=NC=CC(=C2)Cl": 2,
+        "CC(C)OC(=O)N1CCC(CC1)OC2=C(C(=NC=N2)Cl)OC": 1,
+        "COC1=CC=C(C=C1)Br": 1,
+        "C1=CC=C(C=C1)I": 1,
+        "CCOC(=O)C1=CC2=C(O1)C=CC=C2Br": 1,
+        "CC1=CN=C(N=C1C2=CN3C[C@H](N(C(=O)C3=N2)CC4=CC(=C(C=C4)F)F)COC)Cl": 1,
+        "CC1=C(C=CC(=N1)Cl)F": 1,
+        "C1=CC=C(C=C1)COC2=CC=C(C=C2)Br": 1,
+        "C1COCCN1C2=CC(=O)N3C=CC=C(C3=N2)C4=CC=CC5=C4SC6=C5C=C(C=C6)OS(=O)(=O)C(F)(F)F": 1,
+        "CC1=CC(=NC2=C1CN(CC(O2)CC(F)(F)F)C)Cl": 1,
+        "CN1CC(OC2=C(C1)C=CC(=N2)Cl)C3CC3": 1,
+        "C1=CC(=C(C=C1F)C=O)Br": 1,
+        "C1=CN=CC=C1Br": 1,
+        "C1=CC=C(C=C1)Br": 1,
+        "CN1C=CC(=N1)NC2=CC(=NC3=C(C=NN23)C#N)Cl": 1,
+        "C1=CC(=CN=C1)Br": 1,
+        "CCOC(=O)C1=CN=C2C=CC(=CC2=C1NC3=C(C=C(C=C3)F)F)Br.Cl": 1,
+        "C1=CC=NC(=C1)Br": 1,
+        "CC1=CC(=C(N=C1)Cl)F": 1,
+        "CN1CCC2=C(C1=O)C(=CC=C2)NC3=CC(=NC=C3Cl)Cl": 1,
+        "CC1=C(C(=CC=C1)C)C(=O)NC(C2=CC=C(C=C2)Br)C34CCC(N3C)CC4": 1,
+        "CC1=CSC(=N1)Cl": 1,
+        "COC(=O)C1=NC=C(C=N1)Br": 1
+      },
+      "amine": {
+        "CN1CCNCC1": 2,
+        "CC1=CC2=C(N1)C=C(C=C2)OC(F)(F)F": 2,
+        "CC1=CN(C=N1)C2=C(C=C(C=C2)N)OC": 3,
+        "C1CCN(CC1)C2CCNCC2": 1,
+        "CN1C(=CC=N1)N": 3,
+        "CS(=O)(=O)CC1=CC(=CC=C1)N": 1,
+        "CN(C)C(=O)C1=CC2=C(C(=C1)C3CCCN3)OC(=CC2=O)N4CCOCC4": 1,
+        "C1CCC(CC1)N": 1,
+        "CC(C)(C)OC(=O)N1CC(C1)OC2=CC(=C(C=C2)N)OC": 1,
+        "CN1C=C(C=N1)C2=C(N=C(C=C2)N)OC": 2,
+        "C1=CC(=CC=C1C#N)N": 1,
+        "CONC(=O)C1=C(C=C(C=C1)F)N": 1,
+        "CC1=CN(C=N1)C2=C(C=C(C=C2)N)OC.Cl": 1,
+        "CCOC(=O)C1=CN=C(O1)N": 2,
+        "CC(C)(C)OC(=O)N1C[C@@H]2C[C@H]1CN2": 1,
+        "CNC(=O)C1=CC=CC=C1N": 1,
+        "C1=CC=C(C=C1)CN": 4,
+        "C[C@@H]1CN(CCN1)C(=O)OC(C)(C)C": 2,
+        "COC(=O)C1=CC2=C(C(=C1)C3CCCN3)OC(=CC2=O)N4CCOCC4": 1,
+        "C1=CN=CC=C1CN": 1,
+        "CC1=C(C=CC(=N1)S(=O)(=O)C)N": 1,
+        " CC(C)(C(=O)OC)N": 1,
+        "CNC(=O)C1=C(C=C(C=C1)F)N": 1,
+        "CN(C)CCN": 1,
+        "C1CN(CCN1)CC2=CC=CC=C2": 1,
+        "C[C@@H]1CNC[C@@H](N1)C": 1,
+        "CC(C)(C)OC(=O)N": 3,
+        "CC(C)(C)OC(=O)NC": 1,
+        "C1CCNC1": 1,
+        "C1=CC=C(C=C1)N": 1,
+        "C1=CC(=CC(=C1)N)CO": 1,
+        "CONC(=O)C1=C(C=CC(=C1)F)N": 1,
+        "CC1=C(C=C(C=C1)N)NC(=O)C": 1,
+        "CC(C)(C)OC(=O)N1CCNCC1": 1,
+        "C1CC(C1)N2CCN(CC2)C(=O)C3CC34CCNCC4": 1,
+        "C1COCCN1": 1
+      }
+    },
+    "raw": {
+      "Base": [
+        {
+          "reaction_id": "ord-0986b91ec7734959810ebeac46571d3f",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-0addbbece6dc4ca2acdd8d8c9131d423",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-0d9db0bff06f4d53bf85fef23e44393c",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-1342ffbeb4634245a6963094cc9535b6",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-17f82e7aaf404cf69c8e741e1af8f96f",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-1e88fef4eebd41feb29f461d3c9c5a57",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-22a60e15dfdd4a64952f48510c12252f",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-232b7429c3f0450bb3d4836c8a002e13",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-273601a9c88f40afa5574d06d820673e",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-297038d2636048ff93bf3571d541a46e",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-2bf6474a05bf4e7793ad68ef44642c0b",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-2d4104aef43247ff855d465ce3910528",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[K+]"
+        },
+        {
+          "reaction_id": "ord-314790a0639b418890793562fb7875b5",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-322a5f0c927a43d5b08115d8443f975d",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-345c2935b6ec4f748049eeb832f405b7",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-34df93999d2b40d3bb96c4985f9877e7",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-36d41d697d8f415b8c7cc3a381080785",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-3a2eb97137e148aba58c08979aa7d29e",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CCC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-4a6bd61cd0ff477baa0ad5e567d741e9",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[K+]"
+        },
+        {
+          "reaction_id": "ord-512d2d9fb0454cb39e6db5113f92b34b",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[K+]"
+        },
+        {
+          "reaction_id": "ord-5211120ee16b4ae79338b46c711839b3",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-63fc87ded08344459c39e54d90416da8",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-69afe546f2d1404c8a01676e785a3836",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-6a2eab081b6a474896fa34b3a81f3801",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CCC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-6e62fa456f9543438c4d7ca789bf180e",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-6eea29be7d4b47c5893b1e243ef41836",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-724091f002d04d2ea6bfe923f45ebf01",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[K+]"
+        },
+        {
+          "reaction_id": "ord-76b900b67381471d89fef9247f442cb0",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-81f0402c864a4618afac454715899838",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-849a1d763cb042f7907069ab25fe470c",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "[O-]P(=O)([O-])[O-].[K+].[K+].[K+]"
+        },
+        {
+          "reaction_id": "ord-8d2093b827454e2d9150258e88282b25",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-9145f2f3fc8144728bdd2b390e48a7d0",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-916b542fdcc44d6284100092f1e92c3f",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-9e945d87965540af8be94a72eefc3798",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-ab90c7bf1414400583ffe823e3ef21b5",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[K+].[K+]"
+        },
+        {
+          "reaction_id": "ord-ac71d193208d45949ee247d7a0855249",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-b128920e4d7f4cc2b5aeb697ff28a01f",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-b4111a9cc1ab4be8bf9e586d821e9697",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-b57d9ea5b2ca4d5c93ac4813f00278f3",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-bcc19de9bb794d1ea8d67a62b78fce0d",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-c8c1812487cb45a2983e445d322bb930",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-c9d3e32c4ae3434fab0938e5982b9ebd",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-cf1404eae16044b48089126b4e1896af",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-dd547470ed614a60b02e180b7f0d2acd",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-e2551fd8964c4f0a80ff232c25d61d8a",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        },
+        {
+          "reaction_id": "ord-e45b32fa63b1416c9334b4592b5aba03",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-ea53d8feb8094f94b89810756f770f19",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[K+]"
+        },
+        {
+          "reaction_id": "ord-edb6c9cf54a940259581c192883091b5",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-f61e41a27de94fdca6031e20c1049254",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)[O-].[Na+]"
+        },
+        {
+          "reaction_id": "ord-f833eea6508044b8abf8f02c39f87010",
+          "input_key": "Base",
+          "reaction_role": "REAGENT",
+          "identifier_type": "SMILES",
+          "value": "C(=O)([O-])[O-].[Cs+].[Cs+]"
+        }
+      ],
+      "Solvent": [
+        {
+          "reaction_id": "ord-0986b91ec7734959810ebeac46571d3f",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-0addbbece6dc4ca2acdd8d8c9131d423",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CC=CC=C1"
+        },
+        {
+          "reaction_id": "ord-0d9db0bff06f4d53bf85fef23e44393c",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "COCCOC"
+        },
+        {
+          "reaction_id": "ord-1342ffbeb4634245a6963094cc9535b6",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CC=CC=C1"
+        },
+        {
+          "reaction_id": "ord-17f82e7aaf404cf69c8e741e1af8f96f",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-1e88fef4eebd41feb29f461d3c9c5a57",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-22a60e15dfdd4a64952f48510c12252f",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-232b7429c3f0450bb3d4836c8a002e13",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-273601a9c88f40afa5574d06d820673e",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CC=CC=C1"
+        },
+        {
+          "reaction_id": "ord-297038d2636048ff93bf3571d541a46e",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-2bf6474a05bf4e7793ad68ef44642c0b",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "COCCOC"
+        },
+        {
+          "reaction_id": "ord-2d4104aef43247ff855d465ce3910528",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-314790a0639b418890793562fb7875b5",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-322a5f0c927a43d5b08115d8443f975d",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "COCCOC"
+        },
+        {
+          "reaction_id": "ord-345c2935b6ec4f748049eeb832f405b7",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-34df93999d2b40d3bb96c4985f9877e7",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CC=CC=C1"
+        },
+        {
+          "reaction_id": "ord-36d41d697d8f415b8c7cc3a381080785",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-3a2eb97137e148aba58c08979aa7d29e",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-512d2d9fb0454cb39e6db5113f92b34b",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1CCOC1"
+        },
+        {
+          "reaction_id": "ord-5211120ee16b4ae79338b46c711839b3",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-63fc87ded08344459c39e54d90416da8",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)N(C)C"
+        },
+        {
+          "reaction_id": "ord-69afe546f2d1404c8a01676e785a3836",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CC=CC=C1"
+        },
+        {
+          "reaction_id": "ord-6a2eab081b6a474896fa34b3a81f3801",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)C(F)(F)F"
+        },
+        {
+          "reaction_id": "ord-6e62fa456f9543438c4d7ca789bf180e",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-6eea29be7d4b47c5893b1e243ef41836",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CN(C)C=O"
+        },
+        {
+          "reaction_id": "ord-724091f002d04d2ea6bfe923f45ebf01",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CC=CC=C1"
+        },
+        {
+          "reaction_id": "ord-76b900b67381471d89fef9247f442cb0",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-849a1d763cb042f7907069ab25fe470c",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CC=CC=C1"
+        },
+        {
+          "reaction_id": "ord-8d2093b827454e2d9150258e88282b25",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CC=CC=C1"
+        },
+        {
+          "reaction_id": "ord-9145f2f3fc8144728bdd2b390e48a7d0",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-916b542fdcc44d6284100092f1e92c3f",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CC=CC=C1"
+        },
+        {
+          "reaction_id": "ord-9e945d87965540af8be94a72eefc3798",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "COCCOC"
+        },
+        {
+          "reaction_id": "ord-ab90c7bf1414400583ffe823e3ef21b5",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "COC1=CC=CC=C1"
+        },
+        {
+          "reaction_id": "ord-ac71d193208d45949ee247d7a0855249",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CC=CC=C1"
+        },
+        {
+          "reaction_id": "ord-b128920e4d7f4cc2b5aeb697ff28a01f",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CC=CC=C1"
+        },
+        {
+          "reaction_id": "ord-b4111a9cc1ab4be8bf9e586d821e9697",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1CCOC1"
+        },
+        {
+          "reaction_id": "ord-b57d9ea5b2ca4d5c93ac4813f00278f3",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-bcc19de9bb794d1ea8d67a62b78fce0d",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)N(C)C"
+        },
+        {
+          "reaction_id": "ord-c8c1812487cb45a2983e445d322bb930",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-c9d3e32c4ae3434fab0938e5982b9ebd",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-cf1404eae16044b48089126b4e1896af",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-dd547470ed614a60b02e180b7f0d2acd",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CC=CC=C1"
+        },
+        {
+          "reaction_id": "ord-e2551fd8964c4f0a80ff232c25d61d8a",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-e45b32fa63b1416c9334b4592b5aba03",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        },
+        {
+          "reaction_id": "ord-ea53d8feb8094f94b89810756f770f19",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CN(C)C=O"
+        },
+        {
+          "reaction_id": "ord-edb6c9cf54a940259581c192883091b5",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)N(C)C"
+        },
+        {
+          "reaction_id": "ord-f61e41a27de94fdca6031e20c1049254",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)N(C)C"
+        },
+        {
+          "reaction_id": "ord-f833eea6508044b8abf8f02c39f87010",
+          "input_key": "Solvent",
+          "reaction_role": "SOLVENT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCO1"
+        }
+      ],
+      "Metal": [
+        {
+          "reaction_id": "ord-0986b91ec7734959810ebeac46571d3f",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-0addbbece6dc4ca2acdd8d8c9131d423",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-0d9db0bff06f4d53bf85fef23e44393c",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-1342ffbeb4634245a6963094cc9535b6",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-17f82e7aaf404cf69c8e741e1af8f96f",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-1e88fef4eebd41feb29f461d3c9c5a57",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-22a60e15dfdd4a64952f48510c12252f",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-232b7429c3f0450bb3d4836c8a002e13",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-273601a9c88f40afa5574d06d820673e",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-297038d2636048ff93bf3571d541a46e",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-2bf6474a05bf4e7793ad68ef44642c0b",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd]"
+        },
+        {
+          "reaction_id": "ord-2d4104aef43247ff855d465ce3910528",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-314790a0639b418890793562fb7875b5",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-322a5f0c927a43d5b08115d8443f975d",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-345c2935b6ec4f748049eeb832f405b7",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-34df93999d2b40d3bb96c4985f9877e7",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-36d41d697d8f415b8c7cc3a381080785",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-3a2eb97137e148aba58c08979aa7d29e",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-4a6bd61cd0ff477baa0ad5e567d741e9",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-512d2d9fb0454cb39e6db5113f92b34b",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)P(C(C)(C)C)C(C)(C)C.CC(C)(C)P(C(C)(C)C)C(C)(C)C.[Pd]"
+        },
+        {
+          "reaction_id": "ord-5211120ee16b4ae79338b46c711839b3",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-63fc87ded08344459c39e54d90416da8",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(C1CCCC1P(C2CCCCC2)C3CCCCC3)P(C(C)(C)C)C(C)(C)C.C1CCCC1.[Fe]"
+        },
+        {
+          "reaction_id": "ord-63fc87ded08344459c39e54d90416da8",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-69afe546f2d1404c8a01676e785a3836",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-6a2eab081b6a474896fa34b3a81f3801",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-6e62fa456f9543438c4d7ca789bf180e",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-6eea29be7d4b47c5893b1e243ef41836",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-724091f002d04d2ea6bfe923f45ebf01",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-76b900b67381471d89fef9247f442cb0",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-81f0402c864a4618afac454715899838",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-849a1d763cb042f7907069ab25fe470c",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-8d2093b827454e2d9150258e88282b25",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-9145f2f3fc8144728bdd2b390e48a7d0",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-916b542fdcc44d6284100092f1e92c3f",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-9e945d87965540af8be94a72eefc3798",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-ab90c7bf1414400583ffe823e3ef21b5",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-ac71d193208d45949ee247d7a0855249",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-b128920e4d7f4cc2b5aeb697ff28a01f",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-b4111a9cc1ab4be8bf9e586d821e9697",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-b57d9ea5b2ca4d5c93ac4813f00278f3",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-bcc19de9bb794d1ea8d67a62b78fce0d",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-c8c1812487cb45a2983e445d322bb930",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-c9d3e32c4ae3434fab0938e5982b9ebd",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-cf1404eae16044b48089126b4e1896af",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-dd547470ed614a60b02e180b7f0d2acd",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-e2551fd8964c4f0a80ff232c25d61d8a",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-e45b32fa63b1416c9334b4592b5aba03",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.C1=CC=C(C=C1)/C=C/C(=O)/C=C/C2=CC=CC=C2.[Pd].[Pd]"
+        },
+        {
+          "reaction_id": "ord-ea53d8feb8094f94b89810756f770f19",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-edb6c9cf54a940259581c192883091b5",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(C1CCCC1P(C2CCCCC2)C3CCCCC3)P(C(C)(C)C)C(C)(C)C.C1CCCC1.[Fe]"
+        },
+        {
+          "reaction_id": "ord-edb6c9cf54a940259581c192883091b5",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-f61e41a27de94fdca6031e20c1049254",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(C1CCCC1P(C2CCCCC2)C3CCCCC3)P(C(C)(C)C)C(C)(C)C.C1CCCC1.[Fe]"
+        },
+        {
+          "reaction_id": "ord-f61e41a27de94fdca6031e20c1049254",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        },
+        {
+          "reaction_id": "ord-f833eea6508044b8abf8f02c39f87010",
+          "input_key": "metal and ligand",
+          "reaction_role": "CATALYST",
+          "identifier_type": "SMILES",
+          "value": "CC(=O)O.CC(=O)O.[Pd]"
+        }
+      ],
+      "aryl halide": [
+        {
+          "reaction_id": "ord-0986b91ec7734959810ebeac46571d3f",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "COC(=O)C1=CC(=CC(=C1)Br)[N+](=O)[O-]"
+        },
+        {
+          "reaction_id": "ord-0addbbece6dc4ca2acdd8d8c9131d423",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)COC2=CC(=CC=C2)Br"
+        },
+        {
+          "reaction_id": "ord-0d9db0bff06f4d53bf85fef23e44393c",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CN1C[C@@H](OC2=C(C1)C=CC(=N2)Cl)C3=CC=CC=C3"
+        },
+        {
+          "reaction_id": "ord-1342ffbeb4634245a6963094cc9535b6",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC(=CC=C1Br)I"
+        },
+        {
+          "reaction_id": "ord-17f82e7aaf404cf69c8e741e1af8f96f",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CN=C(C=C1Cl)Cl"
+        },
+        {
+          "reaction_id": "ord-1e88fef4eebd41feb29f461d3c9c5a57",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "COC1=C(C=CC(=C1)F)C2=NC(=NC=C2F)Cl"
+        },
+        {
+          "reaction_id": "ord-22a60e15dfdd4a64952f48510c12252f",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "COC1=CC(=CC=C1)Br"
+        },
+        {
+          "reaction_id": "ord-232b7429c3f0450bb3d4836c8a002e13",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)COC2=CC(=CC=C2)I"
+        },
+        {
+          "reaction_id": "ord-273601a9c88f40afa5574d06d820673e",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC1=C(N=CC=C1)Br"
+        },
+        {
+          "reaction_id": "ord-297038d2636048ff93bf3571d541a46e",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC2=NC=C(N2C=C1)C3=NC(=NC=C3Cl)Cl"
+        },
+        {
+          "reaction_id": "ord-2bf6474a05bf4e7793ad68ef44642c0b",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CN1CC(OC2=C(C1)C=CC(=N2)Cl)CC(F)(F)F"
+        },
+        {
+          "reaction_id": "ord-2d4104aef43247ff855d465ce3910528",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1CCC(CC1)NC(=O)C2=CN=C(C=C2)Cl"
+        },
+        {
+          "reaction_id": "ord-314790a0639b418890793562fb7875b5",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC1=NN(C=C1NC2=NC=C(C(=C2)I)C(F)(F)F)C"
+        },
+        {
+          "reaction_id": "ord-322a5f0c927a43d5b08115d8443f975d",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CN1CC(OC2=C(C1=O)C=CC(=N2)Cl)C3=CC=CC=C3"
+        },
+        {
+          "reaction_id": "ord-345c2935b6ec4f748049eeb832f405b7",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CN=C(C=C1Cl)Cl"
+        },
+        {
+          "reaction_id": "ord-34df93999d2b40d3bb96c4985f9877e7",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CN=C(C=C1C(F)(F)F)Cl"
+        },
+        {
+          "reaction_id": "ord-36d41d697d8f415b8c7cc3a381080785",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=C(C(=CN=C1Cl)Cl)I"
+        },
+        {
+          "reaction_id": "ord-3a2eb97137e148aba58c08979aa7d29e",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CN1C[C@H](OC2=NC(=NC=C2C1)Cl)C3=CC=CC=C3"
+        },
+        {
+          "reaction_id": "ord-4a6bd61cd0ff477baa0ad5e567d741e9",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1CNC(=O)C2=C1C=C(C=C2)Br"
+        },
+        {
+          "reaction_id": "ord-512d2d9fb0454cb39e6db5113f92b34b",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC(=CC=C1O)Br"
+        },
+        {
+          "reaction_id": "ord-5211120ee16b4ae79338b46c711839b3",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC(=CC(=C1)Br)F"
+        },
+        {
+          "reaction_id": "ord-63fc87ded08344459c39e54d90416da8",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)NC2=NC=CC(=C2)Cl"
+        },
+        {
+          "reaction_id": "ord-69afe546f2d1404c8a01676e785a3836",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)OC(=O)N1CCC(CC1)OC2=C(C(=NC=N2)Cl)OC"
+        },
+        {
+          "reaction_id": "ord-6a2eab081b6a474896fa34b3a81f3801",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "COC1=CC=C(C=C1)Br"
+        },
+        {
+          "reaction_id": "ord-6e62fa456f9543438c4d7ca789bf180e",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=C(C(=CN=C1Cl)Cl)I"
+        },
+        {
+          "reaction_id": "ord-6eea29be7d4b47c5893b1e243ef41836",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)I"
+        },
+        {
+          "reaction_id": "ord-724091f002d04d2ea6bfe923f45ebf01",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CCOC(=O)C1=CC2=C(O1)C=CC=C2Br"
+        },
+        {
+          "reaction_id": "ord-76b900b67381471d89fef9247f442cb0",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC(=CC=C1Br)I"
+        },
+        {
+          "reaction_id": "ord-81f0402c864a4618afac454715899838",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CN=C(N=C1C2=CN3C[C@H](N(C(=O)C3=N2)CC4=CC(=C(C=C4)F)F)COC)Cl"
+        },
+        {
+          "reaction_id": "ord-849a1d763cb042f7907069ab25fe470c",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC1=C(C=CC(=N1)Cl)F"
+        },
+        {
+          "reaction_id": "ord-8d2093b827454e2d9150258e88282b25",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)COC2=CC=C(C=C2)Br"
+        },
+        {
+          "reaction_id": "ord-9145f2f3fc8144728bdd2b390e48a7d0",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCN1C2=CC(=O)N3C=CC=C(C3=N2)C4=CC=CC5=C4SC6=C5C=C(C=C6)OS(=O)(=O)C(F)(F)F"
+        },
+        {
+          "reaction_id": "ord-916b542fdcc44d6284100092f1e92c3f",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CC(=NC2=C1CN(CC(O2)CC(F)(F)F)C)Cl"
+        },
+        {
+          "reaction_id": "ord-9e945d87965540af8be94a72eefc3798",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CN1CC(OC2=C(C1)C=CC(=N2)Cl)C3CC3"
+        },
+        {
+          "reaction_id": "ord-ab90c7bf1414400583ffe823e3ef21b5",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CN=C(C=C1Cl)Cl"
+        },
+        {
+          "reaction_id": "ord-ac71d193208d45949ee247d7a0855249",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC(=C(C=C1F)C=O)Br"
+        },
+        {
+          "reaction_id": "ord-b128920e4d7f4cc2b5aeb697ff28a01f",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CN=CC=C1Br"
+        },
+        {
+          "reaction_id": "ord-b4111a9cc1ab4be8bf9e586d821e9697",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)Br"
+        },
+        {
+          "reaction_id": "ord-b57d9ea5b2ca4d5c93ac4813f00278f3",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC1=NN(C=C1NC2=NC=C(C(=C2)I)C(F)(F)F)C"
+        },
+        {
+          "reaction_id": "ord-bcc19de9bb794d1ea8d67a62b78fce0d",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CN1C=CC(=N1)NC2=CC(=NC3=C(C=NN23)C#N)Cl"
+        },
+        {
+          "reaction_id": "ord-c8c1812487cb45a2983e445d322bb930",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CN=C(C=C1Cl)Cl"
+        },
+        {
+          "reaction_id": "ord-c9d3e32c4ae3434fab0938e5982b9ebd",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC(=CN=C1)Br"
+        },
+        {
+          "reaction_id": "ord-cf1404eae16044b48089126b4e1896af",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CCOC(=O)C1=CN=C2C=CC(=CC2=C1NC3=C(C=C(C=C3)F)F)Br.Cl"
+        },
+        {
+          "reaction_id": "ord-dd547470ed614a60b02e180b7f0d2acd",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=NC(=C1)Br"
+        },
+        {
+          "reaction_id": "ord-e2551fd8964c4f0a80ff232c25d61d8a",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CC(=C(N=C1)Cl)F"
+        },
+        {
+          "reaction_id": "ord-e45b32fa63b1416c9334b4592b5aba03",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CN1CCC2=C(C1=O)C(=CC=C2)NC3=CC(=NC=C3Cl)Cl"
+        },
+        {
+          "reaction_id": "ord-ea53d8feb8094f94b89810756f770f19",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC1=C(C(=CC=C1)C)C(=O)NC(C2=CC=C(C=C2)Br)C34CCC(N3C)CC4"
+        },
+        {
+          "reaction_id": "ord-edb6c9cf54a940259581c192883091b5",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)NC2=NC=CC(=C2)Cl"
+        },
+        {
+          "reaction_id": "ord-f61e41a27de94fdca6031e20c1049254",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CSC(=N1)Cl"
+        },
+        {
+          "reaction_id": "ord-f833eea6508044b8abf8f02c39f87010",
+          "input_key": "aryl halide",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "COC(=O)C1=NC=C(C=N1)Br"
+        }
+      ],
+      "amine": [
+        {
+          "reaction_id": "ord-0986b91ec7734959810ebeac46571d3f",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CN1CCNCC1"
+        },
+        {
+          "reaction_id": "ord-0addbbece6dc4ca2acdd8d8c9131d423",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CC2=C(N1)C=C(C=C2)OC(F)(F)F"
+        },
+        {
+          "reaction_id": "ord-0d9db0bff06f4d53bf85fef23e44393c",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CN(C=N1)C2=C(C=C(C=C2)N)OC"
+        },
+        {
+          "reaction_id": "ord-1342ffbeb4634245a6963094cc9535b6",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1CCN(CC1)C2CCNCC2"
+        },
+        {
+          "reaction_id": "ord-17f82e7aaf404cf69c8e741e1af8f96f",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CN1C(=CC=N1)N"
+        },
+        {
+          "reaction_id": "ord-1e88fef4eebd41feb29f461d3c9c5a57",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CS(=O)(=O)CC1=CC(=CC=C1)N"
+        },
+        {
+          "reaction_id": "ord-22a60e15dfdd4a64952f48510c12252f",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CN(C)C(=O)C1=CC2=C(C(=C1)C3CCCN3)OC(=CC2=O)N4CCOCC4"
+        },
+        {
+          "reaction_id": "ord-232b7429c3f0450bb3d4836c8a002e13",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CC2=C(N1)C=C(C=C2)OC(F)(F)F"
+        },
+        {
+          "reaction_id": "ord-273601a9c88f40afa5574d06d820673e",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1CCC(CC1)N"
+        },
+        {
+          "reaction_id": "ord-297038d2636048ff93bf3571d541a46e",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)OC(=O)N1CC(C1)OC2=CC(=C(C=C2)N)OC"
+        },
+        {
+          "reaction_id": "ord-2bf6474a05bf4e7793ad68ef44642c0b",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CN1C=C(C=N1)C2=C(N=C(C=C2)N)OC"
+        },
+        {
+          "reaction_id": "ord-2d4104aef43247ff855d465ce3910528",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC(=CC=C1C#N)N"
+        },
+        {
+          "reaction_id": "ord-314790a0639b418890793562fb7875b5",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CONC(=O)C1=C(C=C(C=C1)F)N"
+        },
+        {
+          "reaction_id": "ord-322a5f0c927a43d5b08115d8443f975d",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CN(C=N1)C2=C(C=C(C=C2)N)OC.Cl"
+        },
+        {
+          "reaction_id": "ord-345c2935b6ec4f748049eeb832f405b7",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CCOC(=O)C1=CN=C(O1)N"
+        },
+        {
+          "reaction_id": "ord-34df93999d2b40d3bb96c4985f9877e7",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)OC(=O)N1C[C@@H]2C[C@H]1CN2"
+        },
+        {
+          "reaction_id": "ord-36d41d697d8f415b8c7cc3a381080785",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CNC(=O)C1=CC=CC=C1N"
+        },
+        {
+          "reaction_id": "ord-3a2eb97137e148aba58c08979aa7d29e",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CN(C=N1)C2=C(C=C(C=C2)N)OC"
+        },
+        {
+          "reaction_id": "ord-4a6bd61cd0ff477baa0ad5e567d741e9",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)CN"
+        },
+        {
+          "reaction_id": "ord-512d2d9fb0454cb39e6db5113f92b34b",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C[C@@H]1CN(CCN1)C(=O)OC(C)(C)C"
+        },
+        {
+          "reaction_id": "ord-5211120ee16b4ae79338b46c711839b3",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "COC(=O)C1=CC2=C(C(=C1)C3CCCN3)OC(=CC2=O)N4CCOCC4"
+        },
+        {
+          "reaction_id": "ord-63fc87ded08344459c39e54d90416da8",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CN=CC=C1CN"
+        },
+        {
+          "reaction_id": "ord-69afe546f2d1404c8a01676e785a3836",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC1=C(C=CC(=N1)S(=O)(=O)C)N"
+        },
+        {
+          "reaction_id": "ord-6a2eab081b6a474896fa34b3a81f3801",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": " CC(C)(C(=O)OC)N"
+        },
+        {
+          "reaction_id": "ord-6e62fa456f9543438c4d7ca789bf180e",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CNC(=O)C1=C(C=C(C=C1)F)N"
+        },
+        {
+          "reaction_id": "ord-6eea29be7d4b47c5893b1e243ef41836",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CN(C)CCN"
+        },
+        {
+          "reaction_id": "ord-724091f002d04d2ea6bfe923f45ebf01",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1CN(CCN1)CC2=CC=CC=C2"
+        },
+        {
+          "reaction_id": "ord-76b900b67381471d89fef9247f442cb0",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C[C@@H]1CNC[C@@H](N1)C"
+        },
+        {
+          "reaction_id": "ord-81f0402c864a4618afac454715899838",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CN1C(=CC=N1)N"
+        },
+        {
+          "reaction_id": "ord-849a1d763cb042f7907069ab25fe470c",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)OC(=O)N"
+        },
+        {
+          "reaction_id": "ord-8d2093b827454e2d9150258e88282b25",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C[C@@H]1CN(CCN1)C(=O)OC(C)(C)C"
+        },
+        {
+          "reaction_id": "ord-9145f2f3fc8144728bdd2b390e48a7d0",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)OC(=O)NC"
+        },
+        {
+          "reaction_id": "ord-916b542fdcc44d6284100092f1e92c3f",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CN1C=C(C=N1)C2=C(N=C(C=C2)N)OC"
+        },
+        {
+          "reaction_id": "ord-9e945d87965540af8be94a72eefc3798",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC1=CN(C=N1)C2=C(C=C(C=C2)N)OC"
+        },
+        {
+          "reaction_id": "ord-ab90c7bf1414400583ffe823e3ef21b5",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CCOC(=O)C1=CN=C(O1)N"
+        },
+        {
+          "reaction_id": "ord-ac71d193208d45949ee247d7a0855249",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1CCNC1"
+        },
+        {
+          "reaction_id": "ord-b128920e4d7f4cc2b5aeb697ff28a01f",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)N"
+        },
+        {
+          "reaction_id": "ord-b4111a9cc1ab4be8bf9e586d821e9697",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC(=CC(=C1)N)CO"
+        },
+        {
+          "reaction_id": "ord-b57d9ea5b2ca4d5c93ac4813f00278f3",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CONC(=O)C1=C(C=CC(=C1)F)N"
+        },
+        {
+          "reaction_id": "ord-bcc19de9bb794d1ea8d67a62b78fce0d",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC1=C(C=C(C=C1)N)NC(=O)C"
+        },
+        {
+          "reaction_id": "ord-c8c1812487cb45a2983e445d322bb930",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)CN"
+        },
+        {
+          "reaction_id": "ord-c9d3e32c4ae3434fab0938e5982b9ebd",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)OC(=O)N1CCNCC1"
+        },
+        {
+          "reaction_id": "ord-cf1404eae16044b48089126b4e1896af",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CN1CCNCC1"
+        },
+        {
+          "reaction_id": "ord-dd547470ed614a60b02e180b7f0d2acd",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1CC(C1)N2CCN(CC2)C(=O)C3CC34CCNCC4"
+        },
+        {
+          "reaction_id": "ord-e2551fd8964c4f0a80ff232c25d61d8a",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)OC(=O)N"
+        },
+        {
+          "reaction_id": "ord-e45b32fa63b1416c9334b4592b5aba03",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CN1C(=CC=N1)N"
+        },
+        {
+          "reaction_id": "ord-ea53d8feb8094f94b89810756f770f19",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1COCCN1"
+        },
+        {
+          "reaction_id": "ord-edb6c9cf54a940259581c192883091b5",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)CN"
+        },
+        {
+          "reaction_id": "ord-f61e41a27de94fdca6031e20c1049254",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "C1=CC=C(C=C1)CN"
+        },
+        {
+          "reaction_id": "ord-f833eea6508044b8abf8f02c39f87010",
+          "input_key": "amine",
+          "reaction_role": "REACTANT",
+          "identifier_type": "SMILES",
+          "value": "CC(C)(C)OC(=O)N"
+        }
+      ]
+    }
+  }
+}
