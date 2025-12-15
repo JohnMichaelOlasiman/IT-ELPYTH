@@ -12,7 +12,6 @@ BASE = "https://kmt.vander-lingen.nl"
 LIST_TEMPLATE = "https://kmt.vander-lingen.nl/data/reaction/doi/{doi}/start/{start}"
 DEFAULT_DOI = "10.1021/jacsau.4c01276"
 
-# Common solvent mapping for nicer names
 PREFERRED_SOLVENTS = {
     "ClCCl": "dichloromethane",
     "CO[H]": "methanol",
@@ -26,9 +25,7 @@ PREFERRED_SOLVENTS = {
 
 name_cache = {}
 
-# Known names for key compounds in this DOI
 KNOWN_COMPOUND_NAMES = {
-    # Farnesyl acetate and derivatives
     r"C(C)(=O)OC\\C=C(/C)\\CC\\C=C(/C)\\CCC=C(C)C": "(2E,6E)-Farnesyl Acetate",
     r"C(C)(=O)OC\\C=C(\\CC\\C=C(\\CC\\C=C(\\C=O)/C)/C)/C": "(2E,6E,10E)-12-oxo-3,7,11-trimethyldodeca-2,6,10-trien-1-yl acetate",
     r"C(C)(=O)OC\\C=C(\\CC\\C=C(\\CC\\C=C(\\CO)/C)/C)/C": "(2E,6E,10E)-12-Hydroxy-3,7,11-trimethyldodeca-2,6,10-trien-1-yl acetate",
@@ -56,12 +53,10 @@ def make_session():
 
 def extract_reactions_from_list(html):
     rxns = []
-    # Inline JS array pattern
     for m in re.finditer(r"reactions\.push\(\s*['\"]([\s\S]*?)['\"]\s*\)", html):
         s = m.group(1)
         if s:
             rxns.append(s)
-    # HTML attribute fallback
     for m in re.finditer(r"data-reaction-smiles\s*=\s*['\"]([^'\"]+)['\"]", html):
         val = m.group(1)
         if val:
@@ -208,7 +203,6 @@ def resolve_name_with_pubchem(smiles):
                 if nm:
                     name_cache[key] = nm
                     return nm
-        # fallback to synonyms
         u2 = (
             "https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/smiles/"
             + requests.utils.quote(smiles, safe="")
@@ -237,7 +231,6 @@ def resolve_name_with_pubchem(smiles):
 
 
 def resolve_name(smiles):
-    # direct known mapping first
     ns = _norm_smiles(smiles)
     for k, nm in KNOWN_COMPOUND_NAMES.items():
         if smiles == k or ns == _norm_smiles(k):
@@ -245,7 +238,6 @@ def resolve_name(smiles):
     nm = resolve_name_with_pubchem(smiles)
     if nm:
         return nm
-    # try CACTUS iupac_name
     key = f"cactus:{smiles}"
     if key in name_cache:
         return name_cache[key]
@@ -472,4 +464,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
